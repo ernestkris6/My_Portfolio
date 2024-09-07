@@ -11,9 +11,6 @@ const Form  = () => {
   const [text, setText] = useState("Enter subject...");
 
 
-  
- 
-
   return (
     <div className='form'>
       <form>
